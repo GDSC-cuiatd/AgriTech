@@ -57,29 +57,56 @@ By optimizing resource utilization, AgriTech contributes to more sustainable and
 ## 🎯 &nbsp;UN's Sustainable Development Goals & Targets
 
 ### SDG 1: No Poverty 
-
+![SDG3](https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/sdg_1.png)
 AgriTech's solutions help improve crop health, enhancing farmer livelihoods and contributing to poverty reduction.
 
 ### SDG 2: Zero Hunger
-
+![SDG3](https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/sgd_2.png)
 By reducing crop losses, AgriTech supports efforts toward achieving zero hunger.
 
 ### SDG 3: Good Health and Well-Being
-
+![SDG3](https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/sdg_3.png)
 AgriTech promotes safer farming practices by minimizing pesticide exposure, benefiting farmers' health.
 
+## SDG 12: Responsible Consumption and Production 
+![SDG3](https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/sdg_4.png)
+AgriTech optimizes resource use, promoting sustainability in agriculture.
 ## 👨🏻‍💻 &nbsp;Technology Stack
 
 <!-- Replace with actual icons and technologies used -->
 <div align="center">
 <kbd>
-<img src="path/to/your/tech-stack-icon.png" height="60" /> <!-- Replace with your icon path -->
+<img src="./assets/icons/Flutter.png" height="60" />
 </kbd>
-<!-- Add more technologies as needed -->
+<kbd>
+<img src="./assets/icons/Dart.png" height="60" />
+</kbd>
+<kbd>
+<img src="./assets/icons/Firebase.png" height="60" />
+</kbd>
+<kbd>
+<img src="./assets/icons/Go.png" height="60" />
+</kbd>
+<kbd>
+<img src="./assets/icons/Gin.png" height="60" />
+</kbd>
+<kbd>
+<img src="./assets/icons/GCP.png" height="60" />
+</kbd>
+<kbd>
+<img src="./assets/icons/Maps.png" height="60" />
+</kbd>
+<kbd>
+<img src="./assets/icons/Arduino.png" height="60" />
+</kbd>
+<kbd>
+<img src="./assets/icons/ESP32.png" height="60" />
+</kbd>
 </div>
 <div align="center">
-<h4>List of technologies used</h4> <!-- Replace with actual list of technologies used -->
+<h4>Flutter | Dart | Firebase | Go | Gin | Google Cloud Platform | Google Maps Platform | Arduino | ESP32</h4>
 </div>
+
 
 ## ☁️ &nbsp;System Architecture
 
@@ -89,7 +116,7 @@ AgriTech promotes safer farming practices by minimizing pesticide exposure, bene
 </a>
 <br />
 
-> Click image to enlarge.
+> Click the image to enlarge.
 
 ## Getting Started
 
