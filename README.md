@@ -11,7 +11,7 @@
 <br>
 <h1 align="center">AgriTech Project</h1>
 
-![AgriTech](path/to/your/agritech-image.png) <!-- Replace with your image path -->
+![AgriTech](https://github.com/GDSC-cuiatd/team_raees/blob/main/assests/project.png) <!-- Replace with your image path -->
 
 **AgriTech: An AI-Powered Solution for Sustainable Agriculture**
 
