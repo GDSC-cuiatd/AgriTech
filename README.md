@@ -40,7 +40,7 @@ In Pakistan, the agricultural sector faces the challenge of crop diseases, which
 
 ## 🛠️ &nbsp;Key Functionalities
 
-![Key Functionalities](path/to/your/key-functionalities-image.png) <!-- Replace with your image path -->
+![Key Functionalities](https://github.com/GDSC-cuiatd/team_raees/blob/main/assests/solution.png) <!-- Replace with your image path -->
 
 ### AI-Based Monitoring
 
@@ -56,13 +56,13 @@ By optimizing resource utilization, AgriTech contributes to more sustainable and
 
 ## 🎯 &nbsp;UN's Sustainable Development Goals & Targets
 
-### SDG 1: No Poverty
+### SDG 1: No Poverty 
 
 AgriTech's solutions help improve crop health, enhancing farmer livelihoods and contributing to poverty reduction.
 
 ### SDG 2: Zero Hunger
 
-By reducing crop losses, AgriTech supports efforts towards achieving zero hunger.
+By reducing crop losses, AgriTech supports efforts toward achieving zero hunger.
 
 ### SDG 3: Good Health and Well-Being
 
