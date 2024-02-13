@@ -1,7 +1,7 @@
 <br>
 <div align="center">
     <div >
-        <img width="200px" src="https://firebasestorage.googleapis.com/v0/b/gsc23-12e94.appspot.com/o/members%2Fheadhome_square.png?alt=media&token=96a55b42-7c9f-4e68-b41f-d986efe79c01" alt="GDSC Abbottabad Logo"/>
+        <img width="200px" src="https://github.com/GDSC-cuiatd/team_raees/blob/main/assests/proj-logo.png" alt="GDSC Abbottabad Logo"/>
     </div>
     <div>
             <h3><b>AgriTech Project by GDSC Abbottabad</b></h3>
