@@ -124,5 +124,5 @@ AgriTech optimizes resource use, promoting sustainability in agriculture.
 © 2024 GDSC Abbottabad. All Rights Reserved.
 
 <div align="center">
-    <img width="200px" src="path/to/gdsc-abbottabad-logo.png" alt="GDSC Abbottabad Logo"/> <!-- Replace with your GDSC logo path -->
+    <img width="200px" src="https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Images/gdsc.jpeg" alt="GDSC Abbottabad Logo"/> <!-- Replace with your GDSC logo path -->
 </div>
