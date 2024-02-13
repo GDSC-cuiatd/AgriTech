@@ -56,21 +56,18 @@ By optimizing resource utilization, AgriTech contributes to more sustainable and
 
 ## 🎯 &nbsp;UN's Sustainable Development Goals & Targets
 
-| ### SDG 1: No Poverty <br> AgriTech's solutions help improve crop health, enhancing farmer livelihoods and contributing to poverty reduction. | ![SDG1](https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/sdg_1.png) |
+|  SDG 1: No Poverty <br> AgriTech's solutions help improve crop health, enhancing farmer livelihoods and contributing to poverty reduction. | ![SDG1](https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/sdg_1.png) |
 |---|---|
 
+|  SDG 2: Zero Hunger <br> By reducing crop losses, AgriTech supports efforts toward achieving zero hunger. | ![SDG2](https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/sgd_2.png) |
+|---|---|
 
-### SDG 2: Zero Hunger
-![SDG3](https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/sgd_2.png)
-By reducing crop losses, AgriTech supports efforts toward achieving zero hunger.
+|  SDG 3: Good Health and Well-Being <br> AgriTech promotes safer farming practices by minimizing pesticide exposure, benefiting farmers' health. | ![SDG3](https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/sdg_3.png) |
+|---|---|
 
-### SDG 3: Good Health and Well-Being
-![SDG3](https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/sdg_3.png)
-AgriTech promotes safer farming practices by minimizing pesticide exposure, benefiting farmers' health.
+|  SDG 12: Responsible Consumption and Production <br> AgriTech optimizes resource use, promoting sustainability in agriculture. | ![SDG12](https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/sdg_4.png) |
+|---|---|
 
-## SDG 12: Responsible Consumption and Production 
-![SDG3](https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/sdg_4.png)
-AgriTech optimizes resource use, promoting sustainability in agriculture.
 ## 👨🏻‍💻 &nbsp;Technology Stack
 
 <!-- Replace with actual icons and technologies used -->
