@@ -119,6 +119,11 @@ AgriTech optimizes resource use, promoting sustainability in agriculture.
 
 <!-- List contributors and their roles; provide links to their profiles -->
 
+| <div align="center"><h3><b><a href="https://github.com/chayhuixiang">Chay Hui Xiang</a></b></h3><p><i>Nanyang Technological University</i></p></div>  
+| <div align="center"><h3><b><a href="https://github.com/chayhuixiang">Chay Hui Xiang</a></b></h3><p><i>Nanyang Technological University</i></p></div>  
+| <div align="center"><h3><b><a href="https://github.com/chayhuixiang">Chay Hui Xiang</a></b></h3><p><i>Nanyang Technological University</i></p></div>  
+| <div align="center"><h3><b><a href="https://github.com/chayhuixiang">Chay Hui Xiang</a></b></h3><p><i>Nanyang Technological University</i></p></div>  
+
 # Footer
 
 © 2024 GDSC Abbottabad. All Rights Reserved.
