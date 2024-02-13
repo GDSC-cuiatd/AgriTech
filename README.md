@@ -56,18 +56,9 @@ By optimizing resource utilization, AgriTech contributes to more sustainable and
 
 ## 🎯 &nbsp;UN's Sustainable Development Goals & Targets
 
-<div style="display: flex">
-  <div>
-    ### SDG 1: No Poverty 
-![SDG3](https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/sdg_1.png)
-  </div>
-<div>
-  AgriTech's solutions help improve crop health, enhancing farmer livelihoods and contributing to poverty reduction.
-</div>
+| ### SDG 1: No Poverty <br> AgriTech's solutions help improve crop health, enhancing farmer livelihoods and contributing to poverty reduction. | ![SDG1](https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/sdg_1.png) |
+|---|---|
 
-
-  
-</div>
 
 ### SDG 2: Zero Hunger
 ![SDG3](https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/sgd_2.png)
