@@ -76,35 +76,28 @@ AgriTech optimizes resource use, promoting sustainability in agriculture.
 <!-- Replace with actual icons and technologies used -->
 <div align="center">
 <kbd>
-<img src="./assets/icons/Flutter.png" height="60" />
+<img src="https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/colab.jpg" height="60" />
 </kbd>
 <kbd>
-<img src="./assets/icons/Dart.png" height="60" />
+<img src="https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/tensorFlow.svg" height="60" />
 </kbd>
 <kbd>
-<img src="./assets/icons/Firebase.png" height="60" />
+<img src="https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/fluter.png" height="60" />
 </kbd>
 <kbd>
-<img src="./assets/icons/Go.png" height="60" />
+<img src="https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/firebase.png" height="60" />
 </kbd>
 <kbd>
-<img src="./assets/icons/Gin.png" height="60" />
+<img src="https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/Debian-logo.jpg" height="60" />
 </kbd>
 <kbd>
-<img src="./assets/icons/GCP.png" height="60" />
+<img src="https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/thony.png" height="60" />
 </kbd>
-<kbd>
-<img src="./assets/icons/Maps.png" height="60" />
-</kbd>
-<kbd>
-<img src="./assets/icons/Arduino.png" height="60" />
-</kbd>
-<kbd>
-<img src="./assets/icons/ESP32.png" height="60" />
-</kbd>
+
+
 </div>
 <div align="center">
-<h4>Flutter | Dart | Firebase | Go | Gin | Google Cloud Platform | Google Maps Platform | Arduino | ESP32</h4>
+<h4> Google COLAB | TensorFlow | Flutter | Firebase | Debian OS | Thonny </h4>
 </div>
 
 
