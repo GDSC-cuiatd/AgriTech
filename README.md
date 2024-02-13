@@ -1,15 +1,13 @@
-<br>
 <div align="center">
-    <div >
-        <img width="200px" src="https://github.com/GDSC-cuiatd/team_raees/blob/main/assests/proj-logo.png" alt="GDSC Abbottabad Logo"/>
-    </div>
-    <div>
-            <h3><b>AgriTech Project by GDSC Abbottabad</b></h3>
-            <p><i>Empowering agriculture with technology</i></p>
-    </div>      
+
+![GDSC Abbottabad Logo](https://github.com/GDSC-cuiatd/team_raees/blob/main/assests/proj-logo.png)
+
+### **AgriTech Project by GDSC Abbottabad**
+*Empowering agriculture with technology*
+
 </div>
-<br>
-<h1 align="center">AgriTech Project</h1>
+
+# AgriTech Project
 
 ![AgriTech](https://github.com/GDSC-cuiatd/team_raees/blob/main/assests/project.png) <!-- Replace with your image path -->
 
@@ -19,24 +17,14 @@ AgriTech is dedicated to combating crop diseases in Pakistan, using advanced AI 
 
 ## Problem Statement
 
-<br/>
-<blockquote align='center'>
-<h3>“Crop diseases lead to significant annual losses and threaten food security.”
-
-\- AgriTech Team
-
-</h3>
-</blockquote>
-<br/>
+> “Crop diseases lead to significant annual losses and threaten food security.” - AgriTech Team
 
 In Pakistan, the agricultural sector faces the challenge of crop diseases, which can lead to substantial losses. The AgriTech project introduces an innovative AI-based solution to address this challenge, integrating cutting-edge technologies to provide real-time, precise diagnosis and monitoring of crop health.
 
 ## 🎥 &nbsp;Demo Video
 
-<!-- Replace with your actual video thumbnail and link -->
-<a href="link-to-demo-video"><img src="path/to/your/demo-video-thumbnail.png" /></a>
-
-> Video Link: link-to-demo-video To be Added <!-- Replace with your video link -->
+[![Demo Video](path/to/your/demo-video-thumbnail.png)](link-to-demo-video)
+> Video Link: [link-to-demo-video To be Added](link-to-demo-video) <!-- Replace with your video link -->
 
 ## 🛠️ &nbsp;Key Functionalities
 
@@ -57,11 +45,11 @@ By optimizing resource utilization, AgriTech contributes to more sustainable and
 ## 🎯 &nbsp;UN's Sustainable Development Goals & Targets
 
 ### SDG 1: No Poverty 
-![SDG3](https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/sdg_1.png)
+![SDG1](https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/sdg_1.png)
 AgriTech's solutions help improve crop health, enhancing farmer livelihoods and contributing to poverty reduction.
 
 ### SDG 2: Zero Hunger
-![SDG3](https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/sgd_2.png)
+![SDG2](https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/sgd_2.png)
 By reducing crop losses, AgriTech supports efforts toward achieving zero hunger.
 
 ### SDG 3: Good Health and Well-Being
@@ -69,46 +57,22 @@ By reducing crop losses, AgriTech supports efforts toward achieving zero hunger.
 AgriTech promotes safer farming practices by minimizing pesticide exposure, benefiting farmers' health.
 
 ## SDG 12: Responsible Consumption and Production 
-![SDG3](https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/sdg_4.png)
+![SDG12](https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/sdg_4.png)
 AgriTech optimizes resource use, promoting sustainability in agriculture.
+
 ## 👨🏻‍💻 &nbsp;Technology Stack
 
-<!-- Replace with actual icons and technologies used -->
 <div align="center">
-<kbd>
-<img src="https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/colab.jpg" height="60" />
-</kbd>
-<kbd>
-<img src="https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/tensorFlow.svg" height="60" />
-</kbd>
-<kbd>
-<img src="https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/fluter.png" height="60" />
-</kbd>
-<kbd>
-<img src="https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/firebase.png" height="60" />
-</kbd>
-<kbd>
-<img src="https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/Debian-logo.jpg" height="60" />
-</kbd>
-<kbd>
-<img src="https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/thony.png" height="60" />
-</kbd>
 
+![Google COLAB](https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/colab.jpg) ![TensorFlow](https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/tensorFlow.svg) ![Flutter](https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/fluter.png) ![Firebase](https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/firebase.png) ![Debian OS](https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/Debian-logo.jpg) ![Thonny](https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Icons/thony.png)
+
+Google COLAB | TensorFlow | Flutter | Firebase | Debian OS | Thonny
 
 </div>
-<div align="center">
-<h4> Google COLAB | TensorFlow | Flutter | Firebase | Debian OS | Thonny </h4>
-</div>
-
 
 ## ☁️ &nbsp;System Architecture
 
-<!-- If you have an architecture diagram, include it here -->
-<a href="path/to/your/architecture-diagram.png">
-<img src="path/to/your/architecture-diagram.png" target="_blank" />
-</a>
-<br />
-
+[![System Architecture](path/to/your/architecture-diagram.png)](path/to/your/architecture-diagram.png)
 > Click the image to enlarge.
 
 ## Getting Started
@@ -119,14 +83,16 @@ AgriTech optimizes resource use, promoting sustainability in agriculture.
 
 <!-- List contributors and their roles; provide links to their profiles -->
 
+| ![M. Raees Azam](https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/team/raees.jpeg) | ![M Awais Khan](https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/team/img-awais.jpg) | ![Muneer Ahmad](https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/team/munner.jpeg) | ![Hammad Ali Khan](https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/team/hammad.jpeg) |
+|:---:|:---:|:---:|:---:|
+| [M. Raees Azam](https://github.com/raeesazam) | [M Awais Khan](https://github.com/askhan963) | [Muneer Ahmad](https://github.com/askhan963) | [Hammad Ali Khan](https://github.com/ongjx16) |
 
-| <a href="https://github.com/chayhuixiang"><img width="180px" src="https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/team/raees.jpeg" alt=""/></a> | <a href="https://github.com/raeesazam"><img width="180px" src="https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/team/img-awais.jpg" alt=""/></a> | <a href="https://github.com/askhan963"><img width="180px" src="https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/team/munner.jpeg" alt=""/></a> | <a href="https://github.com/askhan963"><img width="180px" src="https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/team/hammad.jpeg" alt=""/></a> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <div align="center"><h3><b><a href="https://github.com/raeesazam">M. Raees Azam</a></b></h3><p><i>CUI,ATD</i></p></div>                                                                               | <div align="center"><h3><b><a href="https://github.com/askhan963">M Awais Khan</a></b></h3></a><p><i>CUI , ATD</i></p></div>                                                                          | <div align="center"><h3><b><a href="https://github.com/askhan963">Muneer Ahnmad</a></b></h3></a><p><i>CUI, ATD</i></p></div></a>                                                               | <div align="center"><h3><b><a href="https://github.com/ongjx16">Hammad Ali Khan</a></b></h3></a><p><i>CUI, ATD</i></p></div>        
 # Footer
 
 © 2024 GDSC Abbottabad. All Rights Reserved.
 
 <div align="center">
-    <img width="200px" src="https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Images/gdsc.jpeg" alt="GDSC Abbottabad Logo"/> <!-- Replace with your GDSC logo path -->
+
+![GDSC Abbottabad Logo](https://github.com/GDSC-cuiatd/team_raees/blob/main/agritech-website/src/assets/Images/gdsc.jpeg) <!-- Replace with your GDSC logo path -->
+
 </div>
