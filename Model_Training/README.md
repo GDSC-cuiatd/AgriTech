@@ -14,7 +14,7 @@ You can download these pre-Trained Model from https://drive.google.com/drive/fol
 
 To use the Model Training folder:
 1. Clone this repository:
-git clone https://github.com/your-username/agritech-project.git
+git clone https://github.com/GDSC-cuiatd/team_raees.git
 
 2. Navigate to the `Model Training` folder:
 cd agritech-project/Model Training
@@ -26,6 +26,3 @@ cd agritech-project/Model Training
 ## License
 
 © 2024 GDSC Abbottabad. All Rights Reserved.
-Replace path/to/logo.png and path/to/system_architecture.png with the actual paths to your logo image and system architecture diagram, respectively. Also, replace your-username with your GitHub username in the clone command.
-
-Ensure that the README.md file is placed at the root of your repository.
