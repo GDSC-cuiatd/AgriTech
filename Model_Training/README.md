@@ -10,6 +10,9 @@ The `Model Training` folder contains subfolders and files necessary for training
 2. **Trained Model Folder**: Contains trained model files used for classification (`best_Classification_model.h5`) and segmentation (`DiseasedPlantFCN.h5`) of plant diseases. 
 You can download these pre-Trained Model from https://drive.google.com/drive/folders/1v_dAz8xNmTBGZH0w9NGfJ7mNoeH-ZHaR?usp=sharing
 
+
+3. **Datasets**: Dataset will only be available on Request
+
 ### Usage
 
 To use the Model Training folder:
