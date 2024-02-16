@@ -12,7 +12,7 @@ Welcome to the AgriTech App Screens GitHub repository! This repository contains 
 - [5-Welcome.png](screens/5-Welcome.png):Signup screen with social media integration for a seamless registration process.
 
 ### 3. Signin Screens
-- [6-sign In.png](screens/6-sign In.png):Simple and secure signin screen with username and password fields.
+- [6-sign In.png](screens/6-signIn.png):Simple and secure signin screen with username and password fields.
 
 ### 4. HomePage Screens
 - [8-Home page.png](screens/8-Homepage.png): Home Page design to access all the feature and key elements.
