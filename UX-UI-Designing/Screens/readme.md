@@ -5,14 +5,14 @@ Welcome to the AgriTech App Screens GitHub repository! This repository contains 
 ## Screens
 
 ### 1. Splash Screens
-- AgriTech app's engaging splash screen with the brand logo and vibrant colors.
+- [4-get-started.png](4-get-started.png):AgriTech app's engaging splash screen with the brand logo and vibrant colors.
 
 ### 2. Signup Screens
-- Clean and user-friendly signup screen with input fields for essential information.
-- Signup screen with social media integration for a seamless registration process.
+- [7-sign up.png](screens/7-signup.png):Clean and user-friendly signup screen with input fields for essential information.
+- [5-Welcome.png](screens/5-Welcome.png):Signup screen with social media integration for a seamless registration process.
 
 ### 3. Signin Screens
-- Simple and secure signin screen with username and password fields.
+- [6-sign In.png](screens/6-sign In.png):Simple and secure signin screen with username and password fields.
 
 ### 5. HomePage Screens
 - [8-Home page.png](screens/8-Homepage.png): Home Page design to access all the feature and key elements.
@@ -27,17 +27,15 @@ Welcome to the AgriTech App Screens GitHub repository! This repository contains 
 ### 6. Image Taking Screens
 - [12-Scan.png](screens/12-Scan.png): Image capture screen for users to capture and upload photos of their crops.
 
-
 ### 7. About Us Screens
 - [18-Profile.png](screens/18-Profile.png): About Us screen introducing the AgriTech team, mission, and values.
-
 
 ## Figma Design
 Explore and interact with the AgriTech app design on [Figma](https://www.figma.com/file/znLw7tKST7d7viwFNPAl0Q/DETECTION-DISEASE?type=design&node-id=0-1&mode=design&t=tEC3DldRhDp3Rjia-0).
 
 ## How to Use
 
-1. Navigate to the `screens` directory to access the image files.
+Navigate to the `screens` directory to access the image files.
 
 ## License
 © 2024 GDSC Abbottabad. All Rights Reserved.
