@@ -15,7 +15,7 @@ Welcome to the AgriTech App Screens GitHub repository! This repository contains 
 - [6-sign In.png](screens/6-signIn.png):Simple and secure signin screen with username and password fields.
 
 ### 4. HomePage Screens
-- [8-Home page.png](screens/8-Homepage.png): Home Page design to access all the feature and key elements.
+- [8-Home page.png](screens/8-Homepage.png):Home Page design to access all the feature and key elements.
   
 ### 5. Aerial Drone Screens
 - [9-Drone 0n.png](screens/9-Drone0n.png): Aerial drone view showcasing the AgriTech app's precision agriculture capabilities.
