@@ -14,20 +14,20 @@ Welcome to the AgriTech App Screens GitHub repository! This repository contains 
 ### 3. Signin Screens
 - [6-sign In.png](screens/6-sign In.png):Simple and secure signin screen with username and password fields.
 
-### 5. HomePage Screens
+### 4. HomePage Screens
 - [8-Home page.png](screens/8-Homepage.png): Home Page design to access all the feature and key elements.
   
-### 4. Aerial Drone Screens
+### 5. Aerial Drone Screens
 - [9-Drone 0n.png](screens/9-Drone0n.png): Aerial drone view showcasing the AgriTech app's precision agriculture capabilities.
 - [0-Drone Ready.png](screens/10-DroneReady.png): Drone screen with live data feed, demonstrating real-time field monitoring.
 
-### 5. History Screens
-- [15-Menupage-2.png](screens/15-Menupage-2.png): Historical data screen presenting past agricultural activities and results.
+### 6. History Screens
+- [15-Menupage-2.png](screens/15-Menupage-2.png): Historical data screen presenting past/saved agricultural activities and results.
 
-### 6. Image Taking Screens
+### 7. Image Taking Screens
 - [12-Scan.png](screens/12-Scan.png): Image capture screen for users to capture and upload photos of their crops.
 
-### 7. About Us Screens
+### 8. About Us Screens
 - [18-Profile.png](screens/18-Profile.png): About Us screen introducing the AgriTech team, mission, and values.
 
 ## Figma Design
