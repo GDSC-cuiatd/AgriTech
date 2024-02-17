@@ -38,13 +38,6 @@ In Pakistan, the agricultural sector faces the challenge of crop diseases, which
 
 > Video Link: link-to-demo-video To be Added <!-- Replace with your video link -->
 
-
-
-## 🛠️ &nbsp;Architecture Diagram
-
-![Architecture Diagram](https://raw.githubusercontent.com/GDSC-cuiatd/team_raees/main/assests/AgriTech%20System%20Architecture-01.png)
-
-
 ## 🛠️ &nbsp;Key Functionalities
 
 ![Key Functionalities](https://github.com/GDSC-cuiatd/team_raees/blob/main/assests/solution.png) <!-- Replace with your image path -->
@@ -107,6 +100,7 @@ By optimizing resource utilization, AgriTech contributes to more sustainable and
 
 ## ☁️ &nbsp;System Architecture
 
+![Architecture Diagram](https://raw.githubusercontent.com/GDSC-cuiatd/team_raees/main/assests/AgriTech%20System%20Architecture-01.png)
 <!-- If you have an architecture diagram, include it here -->
 <a href="path/to/your/architecture-diagram.png">
 <img src="path/to/your/architecture-diagram.png" target="_blank" />
