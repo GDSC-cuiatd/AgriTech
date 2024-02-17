@@ -38,6 +38,19 @@ In Pakistan, the agricultural sector faces the challenge of crop diseases, which
 
 > Video Link: link-to-demo-video To be Added <!-- Replace with your video link -->
 
+# <img src="path/to/your/icon.png" width="30px" height="30px" alt="Icon"> System Architecture
+
+## Overview
+
+This document provides an overview of the system architecture for [Your Project Name]. 
+
+## Architecture Diagram
+
+To better understand the system architecture, refer to the following diagram:
+
+![System Architecture Diagram](https://github.com/GDSC-cuiatd/team_raees/blob/main/assests/AgriTech System Architecture-01.png)
+
+
 ## 🛠️ &nbsp;Key Functionalities
 
 ![Key Functionalities](https://github.com/GDSC-cuiatd/team_raees/blob/main/assests/solution.png) <!-- Replace with your image path -->
