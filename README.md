@@ -42,7 +42,7 @@ In Pakistan, the agricultural sector faces the challenge of crop diseases, which
 
 ## 🛠️ &nbsp;Architecture Diagram
 
-![Key Functionalities](https://github.com/GDSC-cuiatd/team_raees/blob/main/assests/AgriTech System Architecture-01.png) <!-- Replace with your image path -->
+![Architecture Diagram](https://raw.githubusercontent.com/GDSC-cuiatd/team_raees/main/assests/AgriTech%20System%20Architecture-01.png)
 
 
 ## 🛠️ &nbsp;Key Functionalities
