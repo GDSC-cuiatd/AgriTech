@@ -13,9 +13,12 @@ You can download these pre-Trained Model from https://drive.google.com/drive/fol
 
 3. **Datasets**: Dataset will only be available on Request
 
+<<<<<<< HEAD
+=======
 4. (`Plant_Disease_Classification.ipynb`) File is not fully trained which is under fine tunning and proper Training GPU Needed to train them, this is used for Defining the DIease of any effected plant.
 
 
+>>>>>>> 4e2bfd11e993a638a095e7ad0be99fb59c40fe47
 ### Usage
 
 To use the Model Training folder:
