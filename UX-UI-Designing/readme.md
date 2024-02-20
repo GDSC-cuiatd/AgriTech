@@ -73,7 +73,9 @@ These design principles collectively guide the development of the AgriTech app, 
 
 1. Navigate to the `screens` folder to access individual screen designs.
 
-2. Watch `prototyping_flow.mp4` to understand the dynamic interactions within the app.
+2. Watch ![AgriTech-prototyping_flow](https://github.com/GDSC-cuiatd/AgriTech/blob/9ee10690a50d3b152493ce75efea94fdfa73c75c/UX-UI-Designing/prototyping-flow-video.mp4) to understand the dynamic interactions within the app.
+
+
 
 ## License
 
