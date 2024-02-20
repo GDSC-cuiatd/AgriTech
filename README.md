@@ -40,8 +40,6 @@ In Pakistan, the agricultural sector faces the challenge of crop diseases, which
 <a href="https://www.youtube.com/watch?v=MIUQFfEpxTU"><img src="http://img.youtube.com/vi/MIUQFfEpxTU/0.jpg" /></a>
 
 
-> Video Link: link-to-demo-video To be Added <!-- Replace with your video link -->
-
 ## 🛠️ &nbsp;Key Functionalities
 
 ![Key Functionalities](https://github.com/GDSC-cuiatd/team_raees/blob/main/assests/solution.png) <!-- Replace with your image path -->
