@@ -104,33 +104,24 @@ By optimizing resource utilization, AgriTech contributes to more sustainable and
 ### Architecture Diagram
 ![Architecture Diagram](https://raw.githubusercontent.com/GDSC-cuiatd/team_raees/main/assests/AgriTech%20System%20Architecture-01.png)
 <!-- If you have an architecture diagram, include it here -->
-<a href="path/to/your/architecture-diagram.png">
-<img src="path/to/your/architecture-diagram.png" target="_blank" />
-</a>
 <br />
 
 ### Flow Diagram
 ![Our Model](https://github.com/GDSC-cuiatd/AgriTech/blob/main/assests/AgriTech%20Flow%20Diagram-01.png)
 <!-- If you have an architecture diagram, include it here -->
-<a href="path/to/your/architecture-diagram.png">
-<img src="path/to/your/architecture-diagram.png" target="_blank" />
-</a>
+
 <br />
 
 ### System Flow Diagram
 ![Our Model](https://github.com/GDSC-cuiatd/AgriTech/blob/main/assests/System%20Block%20Diagram-01.png)
 <!-- If you have an architecture diagram, include it here -->
-<a href="path/to/your/architecture-diagram.png">
-<img src="path/to/your/architecture-diagram.png" target="_blank" />
-</a>
+
 <br />
 
 ### Algorithm Architecture
 ![Our Model](https://github.com/GDSC-cuiatd/AgriTech/blob/main/assests/Algorithm%20Architecture-01.png)
 <!-- If you have an architecture diagram, include it here -->
-<a href="path/to/your/architecture-diagram.png">
-<img src="path/to/your/architecture-diagram.png" target="_blank" />
-</a>
+
 <br />
 
 ## Getting Started
