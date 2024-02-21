@@ -12,7 +12,7 @@
 <h1 align="center">AgriTech Project</h1>
 
 <p align="center">
-  <img src="https://github.com/GDSC-cuiatd/AgriTech/blob/main/assests/ui-board-0.jpeg" width="60%" height="30%" />
+  <img src="https://github.com/GDSC-cuiatd/AgriTech/blob/main/assests/ui-board-0.jpeg" width="30%" height="30%" />
 
 </p>
 <p align="center">
