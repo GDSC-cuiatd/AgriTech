@@ -35,7 +35,7 @@ In Pakistan, the agricultural sector faces the challenge of crop diseases, which
 
 <!-- Replace with your actual video thumbnail and link -->
 
-<a href="https://www.youtube.com/watch?v=MIUQFfEpxTU"><img src="http://img.youtube.com/vi/MIUQFfEpxTU/0.jpg" /></a>
+<a href="https://youtu.be/MIUQFfEpxTU?si=k49amuAiTTSUs1ie"><img src="http://img.youtube.com/vi/MIUQFfEpxTU/0.jpg" /></a>
 
 
 ## 🛠️ &nbsp;Key Functionalities
