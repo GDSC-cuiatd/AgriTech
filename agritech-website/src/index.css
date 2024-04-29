@@ -1,0 +1,44 @@
+body {
+  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+  color: #202124; /* Google's primary text color */
+  scroll-behavior: smooth;
+}
+/* Ensure body takes full viewport height */
+html, body {
+  height: 100%;
+}
+
+/* Improve readability of text over background image */
+.content-box {
+  background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+  padding: 20px;
+  border-radius: 8px;
+}
+
+
+a {
+  color: #1a73e8; /* Google Blue for links */
+  text-decoration: none; /* Optional: Removes underline from links */
+}
+
+/* Responsive Typography */
+h1 {
+  font-size: 2.5rem; /* Responsive font size for H1 */
+}
+
+h2, h5 {
+  margin: 0.5em 0;
+}
+
+p {
+  margin: 1em 0;
+}
+
+/* Button Customization */
+button {
+  margin: 0.5em;
+  padding: 0.5em 1em;
+}

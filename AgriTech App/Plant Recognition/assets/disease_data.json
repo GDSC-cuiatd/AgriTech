@@ -1,0 +1,88 @@
+[
+  {
+    "image": "assets/images/BLB_multi_leaf (1).jpg",
+    "name": "Bacterial Leaf Blight",
+    "cause": "Bacterium Xanthomonas oryzae pv. oryzae (Xoo)",
+    "solution": "Use resistant varieties, seed treatment, crop rotation, proper water management, remove infected plants, chemical control, biocontrol agents."
+  },
+  {
+    "image": "assets/images/BLS (1).jpg",
+    "name": "Bacterial Leaf Streak",
+    "cause": "Bacterium Xanthomonas oryzae pv. oryzae (Xoc)",
+    "solution": "Use resistant varieties, seed treatment, crop rotation, proper water management, remove infected plants, chemical control, biocontrol agents."
+  },
+  {
+    "image": "assets/images/Bakanae (3).jpeg",
+    "name": "Bakanae",
+    "cause": "Fungus Gibberella fujikuroi",
+    "solution": "Use disease-free seeds, seed treatment, crop rotation, resistant varieties, chemical control."
+  },
+  {
+    "image": "assets/images/Brown_Spot_multi_leaf (4).jpg",
+    "name": "Brown Spot",
+    "cause": "Fungus Cochliobolus miyabeanus",
+    "solution": "Use resistant varieties, crop rotation, proper water management, fungicide application."
+  },
+  {
+    "image": "assets/images/Grassy_virus (5).jpeg",
+    "name": "Grassy Stunt Virus",
+    "cause": "Rice grassy stunt virus",
+    "solution": "Control insect vectors, use virus-free planting material."
+  },
+  {
+    "image": "assets/images/Healthy (5).jpg",
+    "name": "Healthy Rice Plant",
+    "cause": "N/A (Desired state)",
+    "solution": "Implement good agricultural practices, monitor for diseases, practice crop rotation."
+  },
+  {
+    "image": "assets/images/narrow_brown (5).jpg",
+    "name": "Narrow Brown Spot",
+    "cause": "Fungus Cochliobolus miyabeanus",
+    "solution": "Use resistant varieties, crop rotation, proper water management, fungicide application."
+  },
+  {
+    "image": "assets/images/Ragged_virus (5).jpeg",
+    "name": "Ragged Stunt Virus",
+    "cause": "Rice ragged stunt virus",
+    "solution": "use virus-free planting material."
+  },
+  {
+    "image": "assets/images/Blast (7).jpg",
+    "name": "Rice Blast",
+    "cause": "Fungus Magnaporthe oryzae",
+    "solution": "Use resistant varieties, fungicide application, proper water management, crop rotation."
+  },
+  {
+    "image": "assets/images/False_smut (7).jpg",
+    "name": "Rice False Smut",
+    "cause": "Fungus Ustilaginoidea virens",
+    "solution": "Use disease-free seeds, crop rotation, balanced fertilization, fungicide application."
+  },
+  {
+    "image": "assets/images/Sheath_blight (9).jpg",
+    "name": "Sheath Blight",
+    "cause": "Fungus Rhizoctonia solani",
+    "solution": "Use resistant varieties, proper water management, fungicide application, crop rotation."
+  },
+  {
+    "image": "assets/images/Sheath_rot (10).jpg",
+    "name": "Sheath Rot",
+    "cause": "Fungus Sarocladium oryzae",
+    "solution": "Use disease-free seeds, crop rotation, fungicide application, proper water management."
+  },
+  {
+    "image": "assets/images/Stem_rot (9).jpeg",
+    "name": "Stem Rot",
+    "cause": "Fungus Sclerotium oryzae",
+    "solution": "Use resistant varieties, proper water management, fungicide application, crop rotation."
+  },
+  {
+    "image": "assets/images/Tungro_virus (8).jpg",
+    "name": "Tungro Virus",
+    "cause": "Rice tungro bacilliform virus and Rice tungro spherical virus",
+    "solution": "Control insect vectors, use virus-free planting material."
+  }
+]
+
+
