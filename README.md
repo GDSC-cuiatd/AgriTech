@@ -1,3 +1,18 @@
+## Project Structure
+
+The AgriTech repository is organized into several main folders, each tailored for specific aspects of the project:
+
+- **[AgriTech](https://github.com/GDSC-cuiatd/AgriTech)**
+  - **[AgriTech App](https://github.com/GDSC-cuiatd/AgriTech/tree/main/AgriTech%20App)** - Contains the source code for the mobile application.
+  - **[agritech-website](https://github.com/GDSC-cuiatd/AgriTech/tree/main/agritech-website)** - Contains the source code for the project's website.
+  - **[assets](https://github.com/GDSC-cuiatd/AgriTech/tree/main/assets)** - Stores static files such as images and fonts used across the project.
+  - **[Model_Training](https://github.com/GDSC-cuiatd/AgriTech/tree/main/Model_Training)** - Includes scripts and notebooks for training the AI models.
+  - **[UX-UI-Designing](https://github.com/GDSC-cuiatd/AgriTech/tree/main/UX-UI-Designing)** - Holds design files and prototypes for the project's user interface.
+
+This structured format allows users to click on each folder name to directly access the GitHub repository folder, facilitating easy navigation and understanding of the project's architecture.
+
+
+
 ## Table of Contents
 1. [Project Introduction](#project-introduction)
 2. [Problem Statement](#problem-statement)
