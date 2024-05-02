@@ -2,12 +2,31 @@ import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:get/get.dart';
 
+import '../bottom_naviagtion.dart';
+
 class AboutScreen extends StatelessWidget {
   const AboutScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      appBar: AppBar(
+        centerTitle: true,
+        title: Text(
+          'About us',
+          style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
+        ),
+        automaticallyImplyLeading: true,
+        backgroundColor: Colors.black.withOpacity(0.5),
+        leading: GestureDetector(
+            onTap: () {
+              Get.offAll(() => BottomNavigatioScreen());
+            },
+            child: Icon(
+              Icons.arrow_back_ios_new,
+              color: Colors.white,
+            )),
+      ),
       body: SingleChildScrollView(
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,

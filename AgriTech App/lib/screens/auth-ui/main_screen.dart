@@ -7,6 +7,7 @@ import 'dart:math';
 import '../../custom_widgets/custom_drawer.dart';
 import '../../utils/app_constant.dart';
 import '../../widget/plant_recogniser.dart';
+import 'about.dart';
 import 'drone_images.dart';
 import 'history.dart';
 import 'welcome_screen.dart';
@@ -108,7 +109,7 @@ class _MainScreenState extends State<MainScreen> {
                       ),
                       GestureDetector(
                         onTap: () {
-                          Get.off(() => DroneImages());
+                          Get.off(() => AboutScreen());
                         },
                         child: Image(
                           image: AssetImage('assets/aa4.png'),
