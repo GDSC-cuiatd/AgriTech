@@ -179,6 +179,8 @@ Here's how you run this.
 
    ```bash
    git clone https://github.com/GDSC-cuiatd/AgriTech.git
+2. **Run the App:**
+      [Running App](https://github.com/GDSC-cuiatd/AgriTech/tree/main/AgriTech%20App#readme)
 
 ## <div id="contributors">👥 &nbsp;Contributors</div>
 
