@@ -1,3 +1,34 @@
+## Project Structure
+
+The AgriTech repository is organized into several main folders, each tailored for specific aspects of the project:
+```
+AgriTech  
+│
+└───AgriTech App
+│ └── Source code and resources for the mobile application. 
+│
+└───Model_Training
+| ├── Classification.ipynb
+| ├── Plant_Disease_Classification.ipynb
+| ├── RaspbianDrone.ipynb
+| ├── RPDPS.ipynb
+| ├── rpdps.py
+| └── Segmentation.ipynb
+| ├── README.md
+│
+└───agritech-website 
+│ └── Source code for the project's website. 
+│
+└───UX-UI-Designing  
+| └── Design files and prototypes for the user interface.
+│   README.md
+│   CODE_OF_CONDUCT.md
+│   CONTRIBUTING.md
+│   LICENSE
+    
+```
+
+
 ## Table of Contents
 1. [Project Introduction](#project-introduction)
 2. [Problem Statement](#problem-statement)
